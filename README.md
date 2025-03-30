@@ -1,1 +1,1 @@
-# samaelwebsite.github.io
+PhotographyWebsite.github.io
